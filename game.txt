@@ -11,7 +11,7 @@ Buttons
 		desc:Click this little kiwi to get more kiwi!
 		on click:anim icon wobble
 		on click:yield 1 kiwi
-		text: e
+		desc: button
 		class:bigButton hasFlares
 		icon class:shadowed
 		tooltip origin:bottom
