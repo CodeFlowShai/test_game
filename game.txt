@@ -10,8 +10,8 @@ Buttons
 		name:Make a kiwi
 		desc:Click this little kiwi to get more kiwi!
 		on click:anim icon wobble
-		on click:yield 1 kiwi
-		desc: button
+		icon:kiwi.png
+		no text
 		class:bigButton hasFlares
 		icon class:shadowed
 		tooltip origin:bottom
