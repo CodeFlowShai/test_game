@@ -5,3 +5,14 @@ Let's make a game!
 	created:17/6/2025
 	updated:17/6/2025
 	version:1
+Buttons
+	*kiwiButton
+		name:Make a kiwi
+		desc:Click this little kiwi to get more kiwi!
+		on click:anim icon wobble
+		on click:yield 1 kiwi
+		text: e
+		class:bigButton hasFlares
+		icon class:shadowed
+		tooltip origin:bottom
+		tooltip class:red
